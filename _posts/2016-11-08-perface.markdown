@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "序言"
+date:   2016-11-08 19:06:27 +0800
+categories: jekyll update
+---
+
+# 写在前面
+
+> “这个世界很美好,值得我们为之奋斗”
+____海明威
