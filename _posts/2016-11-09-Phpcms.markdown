@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "fullPage.js"
+title:  "Phpcms 的使用"
 date:   2016-11-10 12:31:27 +0800
 categories: jekyll update
 ---
 
-###### Phpcms 的使用
+# Phpcms 的使用
 
 #### 什么是web服务器？它是做什么的？
 
@@ -68,7 +68,7 @@ categories: jekyll update
 
 ### 常用代码
 
-```
+*
 {loop subcat(12) $k $v}{/loop}  快速遍历子栏目
 
   {php }  添加一段php代码
@@ -173,7 +173,7 @@ categories: jekyll update
   </ul>
   {$pages}
   {/pc}
- ```
+*
 
  ###  一些常见的问题处理
 
